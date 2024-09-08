@@ -1,0 +1,9 @@
+// src/config/azampayConfig.js
+module.exports = {
+    clientId: 'e9fd8444-c12d-41b0-bcc8-6ca96524368e',
+    clientSecret: 'XziOOxA8jIW1aiHlZGg1oO6Yz/OjhUdGDqLQLx3+00OFtOCKdV3OQWFSVLW26Dduqtm0DPoAilFPpbF+yEcgWI5nSYq5b7Y+VqaP9FE2iAZashcMvT1xLTJMN0Bn3ywBAb7T4kJAf4FDznl6l0+2v3Rh5zVC8rTC4QuVDin1fijOC3Fx3QXkNIj8vFdaHIVvsgRPlEUdYeYWG+d/4EeCf0gpfIChn3GDVHao9WfyOtEZHyWaYqLAclGnsPbFmjRzFRkeGbkP0F01ZtyNL//CzSAAwJrmKgAoZwz/+P/hDUSbvP4K4gDyQ8LjsjLHvEjBD2/T606eiOO+4x5czRoDkkOBfzRPE4jFks0VRp9XbTGojPWR5FPGTl7YHvSjbVFs5P1WPWr6IPR9QXQaZcPP7M4vQ9uFyp1NKblq0MNF1XwA0Q84o1b/RK3NmXgyi+lWbtFTnh4aPOJPrXsfinbSbO448dFFw/+XPUhkgqX64U5wuGBu5SKQCguh848WZm5c74O/9Q+BQx8y7bRRtuqHaHD/aWFXkfWkV0DKgNFZeiVN6okpJSAK18bRNVKRYZfbm2WdomXH4nzwOk7FFq8enx7Boi8YTbeUIArgFKLebxZml5WQAai3x8LcL0M5LUQb1LbwbmU75H7NRihfpfj5WiKp1Y5xPq+4jn7ZH9A/sMo=',
+    apiKey: '82b53bd1-8797-4431-8800-e08e8dc02452',
+    appName: 'mlm_app',
+    env: 'SANDBOX',
+  };
+  
